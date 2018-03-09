@@ -1,0 +1,73 @@
+
+
+
+
+.linkClass {
+    list-style: none;
+    background-color: #ce4242;
+    color: white;
+    margin-right: 20px;
+    padding: 5px;
+    border-radius: 7px;
+    text-decoration: none;
+}
+
+Footer {
+    margin-bottom: 0;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: #595959;
+    height: 100px;
+}
+
+.navList {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.blankCard {
+    display: flex;
+    justify-content: center;
+    width: 226px;
+    height: 314px;
+    border: 1px solid black;
+    border-radius: 12px;
+    padding: 1px;
+    background-color: white;
+}
+
+.selection {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+}
+
+.selectionH3 {
+    margin: 0 10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+.backgroundColor {
+    background-color: #57915c;
+}
+
+.marginFromCard {
+    margin-top: 12px;
+}
+
+.howToPlayContainer {
+    height: 675px;
+    margin-top: -21px;
+    margin-bottom: -16px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
